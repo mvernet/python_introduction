@@ -1,3 +1,3 @@
-# PYTHON_INTRODUCTION
+# PYTHON INTRODUCTION
 
 We are learning Python
